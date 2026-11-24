@@ -84,5 +84,6 @@ If VLC or ffmpeg is missing, the Setup check in Settings will show what is not f
 ---
 
 ## License
+## 📄 License
 
-The code in this repository is released under the [Unlicense](LICENSE). It is free to use, copy, modify, and distribute, for any purpose, with no conditions.
+The code in this repository is released under the [MIT License](LICENSE). You are free to use, copy, modify, and distribute it, for any purpose, as long as the copyright notice is kept.
